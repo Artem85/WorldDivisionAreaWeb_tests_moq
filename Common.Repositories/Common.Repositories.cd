@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Common.Repositories.Repository&lt;T&gt;">
+    <Position X="0.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAEAAAAAAAAAAAAEAAAAAAgAAAAAAAIA=</HashCode>
+      <FileName>Repository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Common.Repositories.CountingRepository&lt;T&gt;">
+    <Position X="0.5" Y="3.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAA=</HashCode>
+      <FileName>CountingRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Common.UoW.Extensions.RepositoryINameableMethods">
+    <Position X="0.5" Y="5.75" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAg=</HashCode>
+      <FileName>Extensions\RepositoryINameableMethods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Common.Repositories.Interfaces.IRepository&lt;T&gt;">
+    <Position X="3.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAgAAAAAAAIA=</HashCode>
+      <FileName>Interfaces\IRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Common.Interfaces.INameable">
+    <Position X="3.75" Y="3.25" Width="2" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
